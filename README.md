@@ -51,6 +51,19 @@ UPDATED
 The comparative data analysis of the math & reading scores concludes:
 - Th
 - As 
+
+ORIGINAL MATH SCORES BY GRADE
+![Original Math Scores by Grade](https://user-images.githubusercontent.com/71041680/111051498-749a7980-8421-11eb-9e7c-7eadd66b326e.png)
+
+ORIGINAL READING SCORES BY GRADE
+![Updated Math Scores by Grade](https://user-images.githubusercontent.com/71041680/111051501-7bc18780-8421-11eb-801d-4508860bbacf.png)
+
+UPDATED MATH SCORES BY GRADE
+![Updated Math Scores by Grade](https://user-images.githubusercontent.com/71041680/111052090-00160980-8426-11eb-94cc-30ff61691e06.png)
+
+UPDATED READING SCORES BY GRADE
+![Updated Reading Scores by Grade](https://user-images.githubusercontent.com/71041680/111052101-1fad3200-8426-11eb-8107-4b56ada0800f.png)
+
  
 ## Scores by School Spending Comparison:
 The comparative data analysis of the scores by spending concludes:
