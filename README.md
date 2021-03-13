@@ -57,18 +57,12 @@ UPDATED MATH & MATH SCORES BY GRADE
 
   ![Updated Reading Scores by Grade](https://user-images.githubusercontent.com/71041680/111052101-1fad3200-8426-11eb-8107-4b56ada0800f.png)
 
- 
-## Scores by School Spending Comparison:
-The comparative data analysis of the scores by spending concludes:
-- Th
-- As
 
-## Scores by School Size Comparison:
-The comparative data analysis of the scores by school size concludes:
-- T
-- As
-## Scores by School Type Comparison
-The comparative data analysis of the scores by school type concludes:
-- Th
-- As 
+## Scores by School Spending, Size and Type
+THe above categories are all unaffected by the updated data.  The NaN values for specifically for THS 9th grade level
+do no alter the bucket with which THS falls into with regards to school spending, size or type considering the 9th grade changes were not 
+significant enough overall to have an impact
 
+## Summary
+We would have been better off performming this analysis with the removal of all rows containing a NaN value.  This would have better updated
+our data set, and given us a more clear impact of the 9th grade dishonest data.
