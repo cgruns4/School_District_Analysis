@@ -1,4 +1,4 @@
-# School_District_Analysis
+# SCHOOL DISTRICT ANALYSIS
 
 ## Project Overview
 We are to update our analysis for the school district given the recent uncovering of academic dishonesty at Thomas High School.    
@@ -21,15 +21,31 @@ The comparative data analysis of the School District concludes:
   change to the over data analysis.
 
 
+ORIGINAL
 ![Original District Summary](https://user-images.githubusercontent.com/71041680/111043483-d1416880-8410-11eb-878a-bbe9363f0a1f.png)
 
+UPDATED
 ![Updated District Summary](https://user-images.githubusercontent.com/71041680/111043588-5593eb80-8411-11eb-8887-6a70e2b7375a.png)
 
 
+## School Summary Comparison:
+The dataframe broken down by each individaully analyzed school will only show different data for 
+Thomas High School, which will be covered in the next section.  All the other School's data individual
+data will be unaffected by our changing THS 9th grade data to NaN. 
+
 ## Thomas High School Summary Comparison:
 The comparative data analysis within Thomas High School concludes:
-- Th
-- As 
+- THS average math scores and math pass percentage slightly dipped.
+- THS average reading scores slightly improved but reading pass percentage declined.
+- Overall Passing percentage dipped alightly as well.  
+  
+ORIGINAL 
+![Original Thomas HS Summary](https://user-images.githubusercontent.com/71041680/111051190-3a2fdd00-841f-11eb-8771-6fe6d98673f5.png)
+
+
+UPDATED
+![Updated Thomas HS Summary](https://user-images.githubusercontent.com/71041680/111051198-4025be00-841f-11eb-9e04-e5f41fa73a65.png)
+  
   
 ## Math and Reading Scores by Grade Comparison:
 The comparative data analysis of the math & reading scores concludes:
