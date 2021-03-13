@@ -51,10 +51,8 @@ UPDATED
 The only observed changes will be at the 9th Grade level for Thomas High School, as that data will be NaN and all other Grade
 level data will not be altered
 
-UPDATED MATH SCORES BY GRADE
+UPDATED MATH & MATH SCORES BY GRADE
 ![Updated Math Scores by Grade](https://user-images.githubusercontent.com/71041680/111052090-00160980-8426-11eb-94cc-30ff61691e06.png)
-
-UPDATED READING SCORES BY GRADE
 ![Updated Reading Scores by Grade](https://user-images.githubusercontent.com/71041680/111052101-1fad3200-8426-11eb-8107-4b56ada0800f.png)
 
  
