@@ -48,15 +48,8 @@ UPDATED
   
   
 ## Math and Reading Scores by Grade Comparison:
-The comparative data analysis of the math & reading scores concludes:
-- Th
-- As 
-
-ORIGINAL MATH SCORES BY GRADE
-![Original Math Scores by Grade](https://user-images.githubusercontent.com/71041680/111051498-749a7980-8421-11eb-9e7c-7eadd66b326e.png)
-
-ORIGINAL READING SCORES BY GRADE
-![Updated Math Scores by Grade](https://user-images.githubusercontent.com/71041680/111051501-7bc18780-8421-11eb-801d-4508860bbacf.png)
+The only observed changes will be at the 9th Grade level for Thomas High School, as that data will be NaN and all other Grade
+level data will not be altered
 
 UPDATED MATH SCORES BY GRADE
 ![Updated Math Scores by Grade](https://user-images.githubusercontent.com/71041680/111052090-00160980-8426-11eb-94cc-30ff61691e06.png)
