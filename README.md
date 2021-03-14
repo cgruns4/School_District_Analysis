@@ -59,7 +59,7 @@ UPDATED MATH & MATH SCORES BY GRADE
 
 
 ## Scores by School Spending, Size and Type
-Tee above categories are all unaffected by the updated data.  The NaN values for specifically for THS 9th grade level
+The above categories are all unaffected by the updated data.  The NaN values for specifically for THS 9th grade level
 do no alter the bucket with which THS falls into with regards to school spending, size or type considering the 9th grade changes were not 
 significant enough overall to have an impact
 
