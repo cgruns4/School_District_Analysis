@@ -49,20 +49,22 @@ UPDATED
   
 ## Math and Reading Scores by Grade Comparison:
 The only observed changes will be at the 9th Grade level for Thomas High School, as that data will be NaN and all other Grade
-level data will not be altered
+level data will not be altered.
 
 UPDATED MATH & MATH SCORES BY GRADE
 
-  ![Updated Math Scores by Grade](https://user-images.githubusercontent.com/71041680/111052090-00160980-8426-11eb-94cc-30ff61691e06.png) 
+![Updated Math Scores by Grade](https://user-images.githubusercontent.com/71041680/111052090-00160980-8426-11eb-94cc-30ff61691e06.png) 
 
-  ![Updated Reading Scores by Grade](https://user-images.githubusercontent.com/71041680/111052101-1fad3200-8426-11eb-8107-4b56ada0800f.png)
+![Updated Reading Scores by Grade](https://user-images.githubusercontent.com/71041680/111052101-1fad3200-8426-11eb-8107-4b56ada0800f.png)
 
 
 ## Scores by School Spending, Size and Type
-THe above categories are all unaffected by the updated data.  The NaN values for specifically for THS 9th grade level
+Tee above categories are all unaffected by the updated data.  The NaN values for specifically for THS 9th grade level
 do no alter the bucket with which THS falls into with regards to school spending, size or type considering the 9th grade changes were not 
 significant enough overall to have an impact
 
 ## Summary
-We would have been better off performming this analysis with the removal of all rows containing a NaN value.  This would have better updated
-our data set, and given us a more clear impact of the 9th grade dishonest data.
+Ultimately the removal of 9th Grade data from Thomas High School did not have a material impact on nay of the overall analysis.  
+It is of my opinions that we would have been better off performming this analysis with the removal of all rows containing a NaN value.  
+This would have made our data set cleaner, and given us a more clear impact of the 9th grade dishonest data.  Even with this though,
+It does not appear that the impact overall would have been significant.  
